@@ -45,11 +45,11 @@ import { Pagination, Mousewheel } from "swiper";
 const projectData = [
   {
     name: "home",
-    author: "imsyy",
+    author: "Heroxin",
     desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
   },
   {
-    name: "SPlayer",
+    name: "SPlaHeroxinyer",
     author: "imsyy",
     desc: "🎉 一个简约的音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player",
   },
