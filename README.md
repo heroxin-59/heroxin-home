@@ -13,13 +13,13 @@ _Live Example: https://vue-template.vercel.app_
 ## Running Locally
 
 ```
-yarn install
+yarn install / cnpm install 
 ```
 
 #### Compile and hot-reload for development
 
 ```
-yarn serve
+yarn serve / cnpm run dev
 ```
 
 #### Compile and minify for production
